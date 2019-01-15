@@ -1,2 +1,1 @@
-# react-examples
-Some Examples  Of ReactJS
+> 一些 `React` 的小练习，可能包含某些最佳实践。（待续...）
